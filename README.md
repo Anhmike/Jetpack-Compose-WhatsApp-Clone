@@ -32,6 +32,7 @@
 
 ## References useful during learning the Jetpack Compose for Android from this project
 * [Using Jetpack Compose to build UI in Android](https://blog.mindorks.com/using-jetpack-compose-to-build-ui-in-android)
+* [Using Constraint Layout in Jetpack Compose](https://blog.mindorks.com/constraint-layout-in-jetpack-compose)
 * [State Management in Jetpack Compose](https://blog.mindorks.com/state-management-in-jetpack-compose)
 * [Android Jetpack Compose Tutorial - A modern toolkit for building native Android UI](https://www.youtube.com/watch?v=JdTtRkT03gY)
 
